@@ -1,0 +1,446 @@
+[
+  {
+    "id": "who",
+    "section": "About",
+    "tags": [
+      "who",
+      "about",
+      "yourself",
+      "intro",
+      "introduction",
+      "gopika",
+      "name",
+      "bio",
+      "summary"
+    ],
+    "text": "Gopika Nair J is a Computer Science Engineer working as a Junior Generative AI Engineer at Raabyt, based in Kerala, India. She builds agentic AI systems — conversational interfaces, report generators and RAG pipelines — that turn large language models into software people actually use inside an enterprise."
+  },
+  {
+    "id": "traits",
+    "section": "About",
+    "tags": [
+      "strengths",
+      "personality",
+      "soft skills",
+      "kind of person",
+      "work style",
+      "weakness",
+      "describe"
+    ],
+    "text": "Gopika describes herself as adaptable and self-motivated. She picks things up quickly, communicates clearly, and takes commitment seriously — deadlines, teams, and the parts of a project nobody volunteers for. She believes learning goes beyond textbooks, and most of what she is good at she picked up by doing."
+  },
+  {
+    "id": "contact",
+    "section": "Contact",
+    "tags": [
+      "contact",
+      "email",
+      "reach",
+      "hire",
+      "phone",
+      "number",
+      "linkedin",
+      "github",
+      "location",
+      "where",
+      "based"
+    ],
+    "text": "You can reach Gopika by email at nairjgopika@gmail.com or by phone on +91 99616 65142. She is on LinkedIn at linkedin.com/in/gopika-nair-j and GitHub at github.com/gopikanj03. She is based in Kerala, India, and is open to relocating."
+  },
+  {
+    "id": "availability",
+    "section": "Contact",
+    "tags": [
+      "available",
+      "availability",
+      "looking",
+      "open to work",
+      "opportunities",
+      "job",
+      "roles",
+      "hiring",
+      "notice"
+    ],
+    "text": "Gopika is open to Generative AI and Machine Learning opportunities. She is looking for work where she can keep growing and make a real difference, and is always happy to talk about agents, RAG, or anything LLM-shaped."
+  },
+  {
+    "id": "experience-overview",
+    "section": "Experience",
+    "tags": [
+      "experience",
+      "work history",
+      "where has she worked",
+      "career",
+      "jobs",
+      "employment",
+      "roles",
+      "companies",
+      "how many years",
+      "background"
+    ],
+    "text": "Gopika has three roles to date: Junior Generative AI Engineer at Raabyt, her current position building the AI layer of an on-premise ERP; a one-month Data Analyst traineeship at MedTourEasy in September 2025; and a ten-day Python and Machine Learning internship at Revertech IT Solutions in 2023."
+  },
+  {
+    "id": "raabyt-role",
+    "section": "Experience",
+    "tags": [
+      "raabyt",
+      "current job",
+      "current role",
+      "work",
+      "employer",
+      "company",
+      "now",
+      "present",
+      "job title"
+    ],
+    "text": "Gopika is a Junior Generative AI Engineer at Raabyt, her current role. She works on an on-premise ERP product. The base product was capable but much like any other ERP on the market — the AI layer is what differentiates it, and that layer is her work."
+  },
+  {
+    "id": "raabyt-chat",
+    "section": "Experience",
+    "tags": [
+      "chatbot",
+      "chat",
+      "conversational",
+      "search",
+      "agent",
+      "agentic",
+      "langgraph",
+      "assistant",
+      "prompt"
+    ],
+    "text": "At Raabyt, Gopika built a conversational search agent for the ERP — an agentic AI workflow that lets a user ask questions across the entire system in plain language. One prompt replaces knowing which screen to open, which makes the system far easier to use. It is built with LangGraph and LLMs."
+  },
+  {
+    "id": "raabyt-reports",
+    "section": "Experience",
+    "tags": [
+      "report",
+      "reports",
+      "report generator",
+      "generate report",
+      "automated report",
+      "reporting"
+    ],
+    "text": "Gopika built an automated report generator for the Raabyt ERP. A user describes the report they want in plain language and the system builds it, however complex the underlying query is. It removes the need to construct reports by hand."
+  },
+  {
+    "id": "raabyt-leadscore",
+    "section": "Experience",
+    "tags": [
+      "lead score",
+      "lead scoring",
+      "leads",
+      "crm",
+      "sales",
+      "customer response",
+      "scoring",
+      "adaptive"
+    ],
+    "text": "Gopika built adaptive lead scoring into the Raabyt ERP. Lead scores re-calculate themselves automatically as customer responses land — positive or negative — weighed against the other signals on the account, so the score always reflects the account as it is now rather than when it was last edited by hand."
+  },
+  {
+    "id": "raabyt-migration",
+    "section": "Experience",
+    "tags": [
+      "data migration",
+      "migration",
+      "legacy data",
+      "migrate",
+      "etl",
+      "mapping"
+    ],
+    "text": "Gopika performed AI-assisted data migration at Raabyt, moving legacy data into the ERP with AI handling the field mapping. She describes it as the hardest part of the job and the least visible — technically demanding work that users never see directly."
+  },
+  {
+    "id": "raabyt-ml",
+    "section": "Experience",
+    "tags": [
+      "ml models",
+      "machine learning at work",
+      "classification",
+      "forecasting",
+      "anomaly detection",
+      "predictive"
+    ],
+    "text": "Alongside the Gen AI features, Gopika builds and integrates machine learning models for classification, forecasting and anomaly detection into the Raabyt ERP workflows, placing the output where business decisions actually get made."
+  },
+  {
+    "id": "medtoureasy",
+    "section": "Experience",
+    "tags": [
+      "medtoureasy",
+      "data analytics trainee",
+      "traineeship",
+      "internship",
+      "blood donation",
+      "tpot",
+      "previous job"
+    ],
+    "text": "In September 2025 Gopika completed a one-month Data Analyst traineeship at MedTourEasy, working hands-on across the full data-analysis workflow. She developed a machine learning model using Python, Pandas and TPOT to forecast blood-donation behaviour from donor data."
+  },
+  {
+    "id": "revertech",
+    "section": "Experience",
+    "tags": [
+      "revertech",
+      "intern",
+      "internship 2023",
+      "ten day",
+      "first internship"
+    ],
+    "text": "In 2023 Gopika completed a ten-day internship at Revertech IT Solutions Pvt Ltd, covering the fundamentals of Python and Machine Learning."
+  },
+  {
+    "id": "projects-overview",
+    "section": "Projects",
+    "tags": [
+      "projects",
+      "list projects",
+      "what projects",
+      "her projects",
+      "projects done",
+      "built",
+      "made",
+      "portfolio",
+      "work samples",
+      "all projects",
+      "how many projects",
+      "side projects"
+    ],
+    "text": "Gopika has built three main projects: the Smart Travel Planner (April 2026), an agentic AI trip-planning workflow; the Mini RAG System (December 2025), a retrieval-augmented question answering system over PDFs; and DeepHire (April 2025), a real-time AI mock interview platform built as her final-year major project."
+  },
+  {
+    "id": "travel-planner",
+    "section": "Projects",
+    "tags": [
+      "travel planner",
+      "smart travel",
+      "travel",
+      "gemma",
+      "ollama",
+      "streamlit",
+      "fastapi",
+      "agentic project"
+    ],
+    "text": "Smart Travel Planner (April 2026) is an agentic AI workflow that parses natural-language trip queries and orchestrates tool calls to answer them. It composes weather, places and route APIs into real-time recommendations, served through a Streamlit UI. Built with FastAPI, LangGraph and Gemma via Ollama. Repository: github.com/gopikanj03/travel_planner"
+  },
+  {
+    "id": "mini-rag",
+    "section": "Projects",
+    "tags": [
+      "rag",
+      "mini rag",
+      "retrieval",
+      "chromadb",
+      "embeddings",
+      "groq",
+      "llama",
+      "langchain",
+      "vector",
+      "question answering",
+      "pdf"
+    ],
+    "text": "Mini RAG System (December 2025) is a retrieval-augmented question answering system. It ingests PDF documents, generates semantic embeddings with all-MiniLM-L6-v2, stores them in ChromaDB, and retrieves relevant context for grounded answers. It is wired to Groq Llama 3.1 8B Instant through LangChain for low-latency responses. Repository: github.com/gopikanj03/Answer-Generator-"
+  },
+  {
+    "id": "deephire",
+    "section": "Projects",
+    "tags": [
+      "deephire",
+      "interview",
+      "mock interview",
+      "gemini",
+      "deepface",
+      "spacy",
+      "emotion",
+      "major project",
+      "final year"
+    ],
+    "text": "DeepHire (April 2025) was Gopika's major final-year project: a real-time AI mock interview platform. It generates questions and evaluates answers with Gemini AI, reads candidate emotion through DeepFace, and scores spoken fluency using spaCy, combining all three into live interview feedback. Repository: github.com/gopikanj03/deephire-ai-interviewer"
+  },
+  {
+    "id": "skills-overview",
+    "section": "Skills",
+    "tags": [
+      "skills",
+      "list skills",
+      "what skills",
+      "her skills",
+      "all skills",
+      "technologies",
+      "tech stack",
+      "what can she do",
+      "expertise",
+      "strong in",
+      "good at"
+    ],
+    "text": "Gopika's skills span five areas: Generative AI and LLMs (RAG, LangChain, LangGraph, AI agents, prompt engineering, embeddings, vector databases); machine learning and deep learning (Python, PyTorch, NLP, Scikit-learn); data and analytics (SQL, Pandas, NumPy, EDA, data visualisation); tools and platforms (FastAPI, Git, Tableau, Power BI, R); and leadership and communication."
+  },
+  {
+    "id": "skills-genai",
+    "section": "Skills",
+    "tags": [
+      "gen ai skills",
+      "llm",
+      "rag skills",
+      "langchain",
+      "langgraph",
+      "agents",
+      "prompt engineering",
+      "vector db",
+      "embeddings"
+    ],
+    "text": "Gopika's Generative AI and LLM skills cover RAG, LangChain, LangGraph, AI agents, agentic AI development, prompt engineering, embeddings and vector databases."
+  },
+  {
+    "id": "skills-ml",
+    "section": "Skills",
+    "tags": [
+      "ml skills",
+      "machine learning",
+      "deep learning",
+      "pytorch",
+      "nlp",
+      "scikit",
+      "python",
+      "algorithms"
+    ],
+    "text": "In machine learning and deep learning Gopika works with Python, machine learning, deep learning, NLP, PyTorch, Scikit-learn, TPOT, logistic regression, algorithms and data structures."
+  },
+  {
+    "id": "skills-data",
+    "section": "Skills",
+    "tags": [
+      "data skills",
+      "sql",
+      "pandas",
+      "numpy",
+      "analytics",
+      "eda",
+      "data cleaning",
+      "visualization",
+      "mysql",
+      "statistics"
+    ],
+    "text": "Gopika's data and analytics skills include data analysis, exploratory data analysis, data science, Pandas, NumPy, SQL, MySQL, data cleaning, data manipulation, data processing, data validation, data visualization, data storytelling, data ethics, business analytics and data-driven decision making."
+  },
+  {
+    "id": "skills-tools",
+    "section": "Skills",
+    "tags": [
+      "tools",
+      "fastapi",
+      "git",
+      "tableau",
+      "power bi",
+      "excel",
+      "r programming",
+      "software",
+      "platforms"
+    ],
+    "text": "Tools and platforms Gopika uses: FastAPI, Git, AI coding assistants, Tableau, Power BI, R, C, Google Sheets, Microsoft Excel, PowerPoint and Word."
+  },
+  {
+    "id": "skills-soft",
+    "section": "Skills",
+    "tags": [
+      "leadership",
+      "communication",
+      "teamwork",
+      "management",
+      "public speaking",
+      "presentation",
+      "soft skills",
+      "interpersonal",
+      "organising",
+      "coordination"
+    ],
+    "text": "Gopika's leadership and communication skills include leadership, team leadership, management, communication, technical communication, public speaking, presentation skills, teamwork, project management, project planning, analytical skills, report writing, documentation and workflow management."
+  },
+  {
+    "id": "education",
+    "section": "Education",
+    "tags": [
+      "education",
+      "degree",
+      "btech",
+      "college",
+      "university",
+      "cgpa",
+      "graduate",
+      "study",
+      "studied",
+      "school",
+      "marks"
+    ],
+    "text": "Gopika holds a BTech in Computer Science and Engineering from College of Engineering Adoor, completed in May 2025 with a CGPA of 7.8. She completed Higher Secondary Education at Govt. TDHSS, Alappuzha in March 2021 with 98.33 percent."
+  },
+  {
+    "id": "certs-overview",
+    "section": "Certifications",
+    "tags": [
+      "certifications",
+      "certificates",
+      "certified",
+      "courses",
+      "coursera",
+      "credentials",
+      "how many"
+    ],
+    "text": "Gopika holds 21 certifications in total: 16 from IBM and 5 from Google, all through Coursera. The headline credentials are the IBM Generative AI Engineering Professional Certificate (June 2026) and the Google Data Analytics Professional Certificate (August 2025)."
+  },
+  {
+    "id": "certs-ibm",
+    "section": "Certifications",
+    "tags": [
+      "ibm",
+      "generative ai engineering",
+      "fine-tuning",
+      "transformers",
+      "keras",
+      "flask",
+      "ibm certificate"
+    ],
+    "text": "Gopika's IBM Generative AI Engineering Professional Certificate covers 16 credentials, including Fundamentals of AI Agents Using RAG and LangChain, Generative AI Advanced Fine-Tuning for LLMs, Generative AI Engineering and Fine-Tuning Transformers, Generative AI Language Modeling with Transformers, Gen AI Foundational Models for NLP, Generative AI and LLMs Architecture and Data Preparation, Building Generative AI-Powered Applications with Python, Prompt Engineering Basics, Introduction to Deep Learning and Neural Networks with Keras, Machine Learning with Python, Data Analysis with Python, and Developing AI Applications with Python and Flask."
+  },
+  {
+    "id": "certs-google",
+    "section": "Certifications",
+    "tags": [
+      "google",
+      "data analytics certificate",
+      "statistics course",
+      "google certificate"
+    ],
+    "text": "Gopika's Google credentials (August 2025) are the Google Data Analytics Professional Certificate plus four Advanced Data Analytics courses: Foundations of Data Science, Get Started with Python, Go Beyond the Numbers — Translate Data into Insights, and The Power of Statistics."
+  },
+  {
+    "id": "nss",
+    "section": "Leadership",
+    "tags": [
+      "nss",
+      "national service scheme",
+      "volunteering",
+      "mentor",
+      "nrpf",
+      "volunteer",
+      "community"
+    ],
+    "text": "Gopika spent 2 years 9 months with the National Service Scheme at College of Engineering Adoor. She was Senior Mentor for the NRPF KLM-PTA Region from January 2024 to September 2025, Associate Volunteer Secretary in 2023–2024, and NRPF Regional Coordinator for the KLM-PTA Region in 2023–2024."
+  },
+  {
+    "id": "ieee",
+    "section": "Leadership",
+    "tags": [
+      "ieee",
+      "student branch",
+      "secretary",
+      "wie",
+      "women in engineering",
+      "society"
+    ],
+    "text": "Gopika spent 2 years 2 months with the IEEE Student Branch at College of Engineering Adoor. She was Secretary from January 2023 to February 2024, and Secretary of the WiE (Women in Engineering) Affinity Group in 2022–2023."
+  }
+]

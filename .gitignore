@@ -1,0 +1,23 @@
+# ---------- Secrets ----------
+# rag/.env holds the Groq API key. Never commit it.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# ---------- Vector store ----------
+# Rebuilt with `python ingest.py`; ~600KB of binary that changes every run.
+rag/chroma_db/
+
+# ---------- OS / editor ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

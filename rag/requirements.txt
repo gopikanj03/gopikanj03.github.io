@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+chromadb>=1.0
+sentence-transformers>=3.3
+pydantic>=2.10
+python-dotenv>=1.0
+groq>=0.13
