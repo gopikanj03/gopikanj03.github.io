@@ -389,7 +389,7 @@
       "credentials",
       "how many"
     ],
-    "text": "Gopika holds 21 certifications in total: 16 from IBM and 5 from Google, all through Coursera. The headline credentials are the IBM Generative AI Engineering Professional Certificate (June 2026) and the Google Data Analytics Professional Certificate (August 2025)."
+    "text": "Gopika holds 21 certifications in total: 16 from IBM and 5 from Google, all through Coursera. The headline credentials are the IBM Generative AI Engineering Professional Certificate (June 2026) and the Google Data Analytics Professional Certificate (August 2025), plus four course certificates from Google Advanced Data Analytics."
   },
   {
     "id": "certs-ibm",
@@ -411,10 +411,15 @@
     "tags": [
       "google",
       "data analytics certificate",
-      "statistics course",
-      "google certificate"
+      "google certificate",
+      "advanced data analytics",
+      "r programming",
+      "tableau",
+      "spreadsheets",
+      "capstone",
+      "statistics course"
     ],
-    "text": "Gopika's Google credentials (August 2025) are the Google Data Analytics Professional Certificate plus four Advanced Data Analytics courses: Foundations of Data Science, Get Started with Python, Go Beyond the Numbers — Translate Data into Insights, and The Power of Statistics."
+    "text": "Gopika's Google credentials date from August 2025. She holds the Google Data Analytics Professional Certificate, which covers nine courses: Foundations Data Data Everywhere; Ask Questions to Make Data-Driven Decisions; Prepare Data for Exploration; Process Data from Dirty to Clean; Analyze Data to Answer Questions; Share Data Through the Art of Visualization; Data Analysis with R Programming; the Google Data Analytics Capstone case study; and Accelerate Your Job Search with AI. She also holds four individual course certificates from the Google Advanced Data Analytics programme: Foundations of Data Science, Get Started with Python, Go Beyond the Numbers, and The Power of Statistics."
   },
   {
     "id": "nss",
