@@ -389,7 +389,7 @@
       "credentials",
       "how many"
     ],
-    "text": "Gopika holds 30 certifications in total, all through Coursera: 16 from IBM and 14 from Google. The headline credentials are the IBM Generative AI Engineering Professional Certificate (June 2026, covering 15 courses) and the Google Data Analytics Professional Certificate (August 2025, covering 9 courses), plus four course certificates from Google Advanced Data Analytics."
+    "text": "Gopika holds 31 certifications in total, all through Coursera: 16 from IBM, 14 from Google, and 1 from Anthropic. The headline credentials are the IBM Generative AI Engineering Professional Certificate (June 2026, covering 15 courses), the Google Data Analytics Professional Certificate (August 2025, covering 9 courses), plus four course certificates from Google Advanced Data Analytics, and the AI Automation with Claude certificate from Advancing Women in Tech and Anthropic (October 2026)."
   },
   {
     "id": "certs-ibm",
@@ -420,6 +420,19 @@
       "statistics course"
     ],
     "text": "Gopika's Google credentials date from August 2025. She holds the Google Data Analytics Professional Certificate, which covers nine courses: Foundations Data Data Everywhere; Ask Questions to Make Data-Driven Decisions; Prepare Data for Exploration; Process Data from Dirty to Clean; Analyze Data to Answer Questions; Share Data Through the Art of Visualization; Data Analysis with R Programming; the Google Data Analytics Capstone case study; and Accelerate Your Job Search with AI. She also holds four individual course certificates from the Google Advanced Data Analytics programme: Foundations of Data Science, Get Started with Python, Go Beyond the Numbers, and The Power of Statistics."
+  },
+  {
+    "id": "certs-anthropic",
+    "section": "Certifications",
+    "tags": [
+      "anthropic",
+      "claude",
+      "ai automation with claude",
+      "awit",
+      "advancing women in tech",
+      "coursera"
+    ],
+    "text": "Gopika earned the AI Automation with Claude course certificate in October 2026, an online course authorized by Advancing Women in Tech and Anthropic and offered through Coursera."
   },
   {
     "id": "nss",
